@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CardGame", "CardGame\CardGame.vcxproj", "{9CA6EBA6-9102-4552-8F34-5A0105AD390C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9CA6EBA6-9102-4552-8F34-5A0105AD390C}.Debug|x64.ActiveCfg = Debug|x64
+		{9CA6EBA6-9102-4552-8F34-5A0105AD390C}.Debug|x64.Build.0 = Debug|x64
+		{9CA6EBA6-9102-4552-8F34-5A0105AD390C}.Debug|x86.ActiveCfg = Debug|Win32
+		{9CA6EBA6-9102-4552-8F34-5A0105AD390C}.Debug|x86.Build.0 = Debug|Win32
+		{9CA6EBA6-9102-4552-8F34-5A0105AD390C}.Release|x64.ActiveCfg = Release|x64
+		{9CA6EBA6-9102-4552-8F34-5A0105AD390C}.Release|x64.Build.0 = Release|x64
+		{9CA6EBA6-9102-4552-8F34-5A0105AD390C}.Release|x86.ActiveCfg = Release|Win32
+		{9CA6EBA6-9102-4552-8F34-5A0105AD390C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B3B3405-9022-48F1-9499-05113049C5CF}
+	EndGlobalSection
+EndGlobal
