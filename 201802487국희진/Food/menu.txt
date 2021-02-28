@@ -1,0 +1,6 @@
+b cheese burger; 5000 500
+b bacon burger; 6000 400
+s French fries; 1000 300
+s chicken nugget; 1200 200
+d coke; 1000 200
+d sprite; 1000 200
