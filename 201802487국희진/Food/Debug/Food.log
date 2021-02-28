@@ -1,0 +1,12 @@
+﻿  Burger.cpp
+  Drink.cpp
+  Food.cpp
+  main.cpp
+C:\Users\kook\Desktop\국희진\2학년\C++\기말대체과제\201802487국희진\Food\Manager.h(28,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Manager.cpp
+C:\Users\kook\Desktop\국희진\2학년\C++\기말대체과제\201802487국희진\Food\Manager.h(28,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kook\Desktop\국희진\2학년\C++\기말대체과제\201802487국희진\Food\Manager.cpp(182,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kook\Desktop\국희진\2학년\C++\기말대체과제\201802487국희진\Food\Manager.cpp(197,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Side.cpp
+  코드를 생성하고 있습니다...
+  Food.vcxproj -> C:\Users\kook\Desktop\국희진\2학년\C++\기말대체과제\201802487국희진\Debug\Food.exe
