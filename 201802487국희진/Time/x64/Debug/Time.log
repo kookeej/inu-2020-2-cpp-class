@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\국희진\Desktop\C++프로그래밍\201802487국희진\Time\main.cpp(9,8): warning C4101: 'colon' :참조되지 않은 지역 변수입니다.
+  Time.cpp
+  코드를 생성하고 있습니다...
+  Time.vcxproj -> C:\Users\국희진\Desktop\C++프로그래밍\201802487국희진\x64\Debug\Time.exe
