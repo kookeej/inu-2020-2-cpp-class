@@ -1,0 +1,7 @@
+﻿  ShoppingManager.cpp
+C:\Users\kook\Desktop\국희진\2학년\C++\[201802487국희진]C++프로젝트과제#3\201802487국희진\Shopping\ShoppingManager.cpp(159,21): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kook\Desktop\국희진\2학년\C++\[201802487국희진]C++프로젝트과제#3\201802487국희진\Shopping\ShoppingManager.cpp(208,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kook\Desktop\국희진\2학년\C++\[201802487국희진]C++프로젝트과제#3\201802487국희진\Shopping\ShoppingManager.cpp(291,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kook\Desktop\국희진\2학년\C++\[201802487국희진]C++프로젝트과제#3\201802487국희진\Shopping\ShoppingManager.cpp(404,24): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\kook\Desktop\국희진\2학년\C++\[201802487국희진]C++프로젝트과제#3\201802487국희진\Shopping\ShoppingManager.cpp(440,20): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+  Shopping.vcxproj -> C:\Users\kook\Desktop\국희진\2학년\C++\[201802487국희진]C++프로젝트과제#3\201802487국희진\Debug\Shopping.exe
